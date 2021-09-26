@@ -5,3 +5,5 @@ Automatically reads from the draw.io files in your repo and updates the image fi
   <img src="Test%20Embedding.drawio.svg?">
 </a>
 
+
+![svg](Test%20Embedding.drawio.svg?raw=true)
