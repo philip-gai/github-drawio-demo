@@ -6,6 +6,6 @@ Automatically reads from the draw.io files in your repo and updates the image fi
 [Viewer Link](https://viewer.diagrams.net/?tags={}&highlight=0000ff&edit=_blank&layers=1&nav=1#G1eg__tO7dhHzdnhhw5ASToWFt_JpDV6OU)\
 [File Link](https://drive.google.com/file/d/1eg__tO7dhHzdnhhw5ASToWFt_JpDV6OU/view?usp=sharing)
 
-<a href="https://app.diagrams.net/#Hphilip-gai/github-drawio/blob/develop/Untitled Diagram.drawio.png" target="_blank">Edit in diagrams.net</a>
+<a href="https://app.diagrams.net/#Hphilip-gai%2Fgithub-drawio%2Fblob%2Fdevelop%2FUntitled%20Diagram.drawio.png" target="_blank">Edit in diagrams.net</a>
 
 ![draw.io](Untitled%20Diagram.drawio.png)
