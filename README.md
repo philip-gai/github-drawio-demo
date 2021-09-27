@@ -37,3 +37,4 @@ Reference: <https://github.com/jgraph/drawio-github>
 
 - Images in markdown are cached and can take a few minutes to update
 - The edit link has to reference what branch to edit the diagram on. In this case I used `main`
+- SVGs can have clickable links
