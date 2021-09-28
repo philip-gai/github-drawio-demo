@@ -25,7 +25,7 @@ Reference: <https://github.com/jgraph/drawio-github>
     ![Authorize GitHub](assets/drawio-github-createedit.png)
     ![Create diagram screenshot](assets/create-diagram-screenshot.png)
 4. Make changes, save and commit
-5. Your png or svg file is now in your repo and contains a copy of your diagram in its metadata
+5. Your svg (or png) file is now in your repo and contains a copy of your diagram in its metadata
 6. In your markdown
     1. Reference the image like you would to any image
     2. On click, have the user navigate to diagrams.net and begin editing
