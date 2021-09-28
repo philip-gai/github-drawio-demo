@@ -1,8 +1,19 @@
 # github-drawio
 
-This repo shows how to use diagrams.net (draw.io) diagrams in your GitHub repo.
+How to use diagrams.net (draw.io) diagrams in your GitHub repo.
 
 Reference: <https://github.com/jgraph/drawio-github>
+
+## Benefits of using diagrams.net in GitHub repositories
+
+1. Diagrams are stored in your repository with your code and docs
+2. Diagram access is controlled by GitHub repository access
+3. Diagrams are version-controlled using git
+4. Create PRs with diagram updates to get approvals and feedback
+5. One-click diagram editing from your GitHub repository
+6. diagrams.net is open-source: <https://github.com/jgraph/drawio>
+
+![Rich Diff](assets/svg-diff.png)
 
 ## How to integrate diagrams.net (draw.io) with your GitHub repo
 
@@ -23,18 +34,22 @@ Reference: <https://github.com/jgraph/drawio-github>
     [![Test Embedding draw.io](./Test%20Embedding.drawio.png)](https://app.diagrams.net/#Hphilip-gai%2Fgithub-drawio%2Fmain%2FTest%20Embedding.drawio.png)
     ```
 
-## Example
+## Real Examples
+
+### SVG
+
+- Allows you to have clickable links
+- Better quality than png
+
+[![Test Embedding draw.io](./Test%20Embedding.drawio.svg)](https://app.diagrams.net/#Hphilip-gai%2Fgithub-drawio%2Fmain%2FTest%20Embedding.drawio.svg)
 
 ### PNG
 
 [![Test Embedding draw.io](./Test%20Embedding.drawio.png)](https://app.diagrams.net/#Hphilip-gai%2Fgithub-drawio%2Fmain%2FTest%20Embedding.drawio.png)
 
-### SVG
-
-[![Test Embedding draw.io](./Test%20Embedding.drawio.svg)](https://app.diagrams.net/#Hphilip-gai%2Fgithub-drawio%2Fmain%2FTest%20Embedding.drawio.svg)
-
 ## Notes
 
 - Images in markdown are cached and can take a few minutes to update
 - The edit link has to reference what branch to edit the diagram on. In this case I used `main`
-- SVGs can have clickable links
+
+[Rich Diffs]: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-comparing-branches-in-pull-requests#diff-view-options
