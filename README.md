@@ -31,7 +31,7 @@ Reference: <https://github.com/jgraph/drawio-github>
     2. On click, have the user navigate to diagrams.net and begin editing
 
     ```markdown
-    [![Test Embedding draw.io](./Test%20Embedding.drawio.png)](https://app.diagrams.net/#Hphilip-gai%2Fgithub-drawio%2Fmain%2FTest%20Embedding.drawio.png)
+    [![Test Embedding draw.io](./Test%20Embedding.drawio.svg)](https://app.diagrams.net/#Hphilip-gai/github-drawio/main/Test%20Embedding.drawio.svg)
     ```
 
 ## Real Examples
@@ -41,11 +41,11 @@ Reference: <https://github.com/jgraph/drawio-github>
 - Allows you to have clickable links
 - Better quality than png
 
-[![Test Embedding draw.io](./Test%20Embedding.drawio.svg)](https://app.diagrams.net/#Hphilip-gai%2Fgithub-drawio%2Fmain%2FTest%20Embedding.drawio.svg)
+[![Test Embedding draw.io](./Test%20Embedding.drawio.svg)](https://app.diagrams.net/#Hphilip-gai/github-drawio/main/Test%20Embedding.drawio.svg)
 
 ### PNG
 
-[![Test Embedding draw.io](./Test%20Embedding.drawio.png)](https://app.diagrams.net/#Hphilip-gai%2Fgithub-drawio%2Fmain%2FTest%20Embedding.drawio.png)
+[![Test Embedding draw.io](./Test%20Embedding.drawio.png)](https://app.diagrams.net/#Hphilip-gai/github-drawio/main/Test%20Embedding.drawio.png)
 
 ## Notes
 
