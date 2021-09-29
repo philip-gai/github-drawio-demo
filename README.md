@@ -2,6 +2,8 @@
 
 How to use diagrams.net (draw.io) diagrams in your GitHub repo.
 
+![Demo](assets/github-drawio-demo.gif)
+
 Reference: <https://github.com/jgraph/drawio-github>
 
 ## Benefits of using diagrams.net in GitHub repositories
@@ -49,7 +51,7 @@ Reference: <https://github.com/jgraph/drawio-github>
 
 ## Notes
 
-- Images in markdown are cached and can take a few minutes to update
+- Images in markdown are cached and take five minutes to update
 - The edit link has to reference what branch to edit the diagram on. In this case I used `main`
 
 [Rich Diffs]: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-comparing-branches-in-pull-requests#diff-view-options
