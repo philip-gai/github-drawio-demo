@@ -49,6 +49,11 @@ Reference: <https://github.com/jgraph/drawio-github>
 
 [![Test Embedding draw.io](./Test%20Embedding.drawio.png)](https://app.diagrams.net/#Hphilip-gai/github-drawio/main/Test%20Embedding.drawio.png)
 
+## Prerequisites
+
+- You must authorize the drawio OAuth App
+    - I [opened an issue in the drawio repo](https://github.com/jgraph/drawio/issues/2284) to get this converted to a GitHub App with minimal permissions, but for now it's still an OAuth App
+
 ## Notes
 
 - Images in markdown are cached and take five minutes to update
