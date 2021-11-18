@@ -13,9 +13,11 @@ How to use diagrams.net (draw.io) diagrams in your GitHub repo.
 
 ## How to integrate diagrams.net (draw.io) with your GitHub repo
 
+Note: Images in markdown are cached and can take five minutes to update
+
 ### Using github.dev (Recommended)
 
-This method does not require any OAuth or GitHub app approvals.
+This method does not require any OAuth or GitHub app approvals and defaults to offline mode. 🎉
 
 Using the [Draw.io Visal Studio Code extension], you can do this in github.dev, Codespaces or locally on VS Code.
 
@@ -68,15 +70,6 @@ Reference: <https://github.com/jgraph/drawio-github>
 
 [![Test Embedding draw.io](./Test%20Embedding.drawio.png)](https://app.diagrams.net/#Hphilip-gai/github-drawio/main/Test%20Embedding.drawio.png)
 
-## Prerequisites
-
-- You must authorize the drawio OAuth App
-    - I [opened an issue in the drawio repo](https://github.com/jgraph/drawio/issues/2284) to get this converted to a GitHub App with minimal permissions, but for now it's still an OAuth App
-
-## Notes
-
-- Images in markdown are cached and take five minutes to update
-- The edit link has to reference what branch to edit the diagram on. In this case I used `main`
-
+<!-- Links -->
 [Rich Diffs]: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-comparing-branches-in-pull-requests#diff-view-options
 [Draw.io Visal Studio Code extension]: https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
