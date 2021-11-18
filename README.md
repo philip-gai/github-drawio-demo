@@ -19,11 +19,11 @@ Note: Images in markdown are cached and can take five minutes to update
 
 This method does not require any OAuth or GitHub app approvals and defaults to offline mode. 🎉
 
-Using the [Draw.io Visal Studio Code extension], you can do this in github.dev, Codespaces or locally on VS Code.
+Using the [Draw.io Visual Studio Code extension], you can do this in github.dev, Codespaces or locally on VS Code.
 
 1. Open the repository you want to create the diagram in
 2. Press `.` to open github.dev (or use Codespaces, or clone and use VS Code locally)
-3. Install the [Draw.io Visal Studio Code extension]
+3. Install the [Draw.io Visual Studio Code extension]
 4. Open or save a file ending with `.drawio.png` or `.drawio.svg`
 5. Reference the file in markdown like you would reference any file `![Label](relative link)`
 6. It will now live-update, you can use PRs, and you didn't need to install any GitHub apps! 🚀
@@ -72,4 +72,4 @@ Reference: <https://github.com/jgraph/drawio-github>
 
 <!-- Links -->
 [Rich Diffs]: https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-comparing-branches-in-pull-requests#diff-view-options
-[Draw.io Visal Studio Code extension]: https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
+[Draw.io Visual Studio Code extension]: https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio
