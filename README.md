@@ -15,7 +15,7 @@ How to use diagrams.net (draw.io) diagrams in your GitHub repo.
 
 Note: Images in markdown are cached and can take five minutes to update
 
-### Using github.dev (Recommended)
+### Using VS Code locally, on github.dev or on CodeSpaces (Recommended)
 
 This method does not require any OAuth or GitHub app approvals and defaults to offline mode. 🎉
 
@@ -24,9 +24,9 @@ Using the [Draw.io Visual Studio Code extension], you can do this in github.dev,
 1. Open the repository you want to create the diagram in
 2. Press `.` to open github.dev (or use Codespaces, or clone and use VS Code locally)
 3. Install the [Draw.io Visual Studio Code extension]
-4. Open or save a file ending with `.drawio.png` or `.drawio.svg` ('svg' is recommended)
+4. Open or save a file ending with `.drawio.svg` or `.drawio.png` (svg is recommended)
 5. Reference the file in markdown like you would reference any file `![Label](relative link)`
-6. It will now live-update, you can use PRs, and you didn't need to install any GitHub apps! 🚀
+6. It will now live-update, you can use PRs to review changes, and you didn't need to authorize anything! 🚀
 
 Reference: <https://github.com/hediet/vscode-drawio#readme>
 
