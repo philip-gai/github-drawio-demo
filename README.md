@@ -1,6 +1,6 @@
-# github-drawio
+# Embedding Diagrams in GitHub Markdown
 
-How to use diagrams.net (draw.io) diagrams in your GitHub repo.
+This explains and demos how to use diagrams.net (draw.io) diagrams in your GitHub repo.
 
 ## Benefits of using diagrams.net in GitHub repositories
 
