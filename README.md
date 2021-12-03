@@ -24,9 +24,9 @@ Using the [Draw.io Visual Studio Code extension], you can do this in github.dev,
 1. Open the repository you want to create the diagram in
 2. Press `.` to open github.dev (or use Codespaces, or clone and use VS Code locally)
 3. Install the [Draw.io Visual Studio Code extension]
-4. Open or save a file ending with `.drawio.svg` or `.drawio.png` (svg is recommended)
-5. Reference the file in markdown like you would reference any file `![Label](relative link)`
-6. It will now live-update, you can use PRs to review changes, and you didn't need to authorize anything! 🚀
+4. Open or save a file ending with `.drawio.svg` or `.drawio.png` (svg is recommended). This will open the draw.io editor in VS Code.
+6. Reference the file using a relative link in markdown like you would reference any file `![Label](relative link)`
+7. It will now live-update, you can use PRs to review changes, and you didn't need to authorize anything! 🚀
 
 Reference: <https://github.com/hediet/vscode-drawio#readme>
 
